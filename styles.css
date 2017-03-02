@@ -1,9 +1,4 @@
-/* ******************************** */
-/* Optional DroneDeploy App Styling */
-/* ******************************** */
-/* *********** */
-/* Class Names */
-/* *********** */
+/*Drone Deploy Styling*/
 .error{
   color: #FF4081;
 }
@@ -12,9 +7,7 @@
   color: #039be5;
 }
 
-/* *********** */
-/* Tag Styling */
-/* *********** */
+/*Body*/
 body {
   margin: 0px;
   font-family: 'Lato', sans-serif;
@@ -74,16 +67,12 @@ input:focus{
   border-bottom: 2px solid #2196F3;
 }
 
-/* Changes the placeholder color */
 ::-webkit-input-placeholder { color: rgba(0, 0, 0, 0.38); }
 :-moz-placeholder { color: rgba(0, 0, 0, 0.38); }
 ::-moz-placeholder { color: rgba(0, 0, 0, 0.38); }
 :-ms-input-placeholder { color: rgba(0, 0, 0, 0.38); }
 
-/* ***** */
-/* Fonts */
-/* ****** */
-/* latin-ext */
+/*Fonts*/
 @font-face {
   font-family: 'Lato';
   font-style: normal;
@@ -92,7 +81,6 @@ input:focus{
   unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 
-/* latin */
 @font-face {
   font-family: 'Lato';
   font-style: normal;
@@ -101,7 +89,6 @@ input:focus{
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
 
-/* latin-ext */
 @font-face {
   font-family: 'Lato';
   font-style: normal;
@@ -110,7 +97,6 @@ input:focus{
   unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
 }
 
-/* latin */
 @font-face {
   font-family: 'Lato';
   font-style: normal;
@@ -118,6 +104,3 @@ input:focus{
   src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v11/MDadn8DQ_3oT6kvnUq_2r_esZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
 }
-/* ************************** */
-/* End of DroneDeploy Styling */
-/* ************************** */
